@@ -11,6 +11,7 @@ Primeiro, criamos no github um repositorio com nome GitParaEnsinoMedioNovotec
 -Fizemos um commit e finalmente um push na master
 
 Mostramos os códigos seguidos:
+
 git clone (url do repositorio)
 git config --global user.name "Ricael Costa Santos" (uma vez só no git)
 git config --global user.email "rickaelsantos568@gmail.com" (uma ves só no git)
